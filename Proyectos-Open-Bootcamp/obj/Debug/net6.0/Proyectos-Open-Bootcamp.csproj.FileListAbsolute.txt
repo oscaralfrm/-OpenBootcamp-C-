@@ -1,0 +1,15 @@
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\obj\Debug\net6.0\Proyectos-Open-Bootcamp.csproj.AssemblyReference.cache
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\obj\Debug\net6.0\Proyectos-Open-Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\obj\Debug\net6.0\Proyectos-Open-Bootcamp.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\obj\Debug\net6.0\Proyectos-Open-Bootcamp.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\obj\Debug\net6.0\Proyectos-Open-Bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\bin\Debug\net6.0\Proyectos-Open-Bootcamp.exe
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\bin\Debug\net6.0\Proyectos-Open-Bootcamp.deps.json
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\bin\Debug\net6.0\Proyectos-Open-Bootcamp.runtimeconfig.json
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\bin\Debug\net6.0\Proyectos-Open-Bootcamp.dll
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\bin\Debug\net6.0\Proyectos-Open-Bootcamp.pdb
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\obj\Debug\net6.0\Proyectos-Open-Bootcamp.dll
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\obj\Debug\net6.0\refint\Proyectos-Open-Bootcamp.dll
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\obj\Debug\net6.0\Proyectos-Open-Bootcamp.pdb
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\obj\Debug\net6.0\Proyectos-Open-Bootcamp.genruntimeconfig.cache
+C:\Users\Oscar\source\repos\Proyectos-Open-Bootcamp\Proyectos-Open-Bootcamp\obj\Debug\net6.0\ref\Proyectos-Open-Bootcamp.dll
