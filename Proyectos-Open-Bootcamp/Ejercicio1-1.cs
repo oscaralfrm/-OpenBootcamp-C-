@@ -6,7 +6,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-
 namespace Proyectos_Open_Bootcamp
 {
      public class Ejercicio1_1
